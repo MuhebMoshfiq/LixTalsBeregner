@@ -1,0 +1,17 @@
+C:\Users\mohib\source\repos\LixTalsBeregner\bin\Debug\netcoreapp3.1\LixTalsBeregner.exe
+C:\Users\mohib\source\repos\LixTalsBeregner\bin\Debug\netcoreapp3.1\LixTalsBeregner.deps.json
+C:\Users\mohib\source\repos\LixTalsBeregner\bin\Debug\netcoreapp3.1\LixTalsBeregner.runtimeconfig.json
+C:\Users\mohib\source\repos\LixTalsBeregner\bin\Debug\netcoreapp3.1\LixTalsBeregner.runtimeconfig.dev.json
+C:\Users\mohib\source\repos\LixTalsBeregner\bin\Debug\netcoreapp3.1\LixTalsBeregner.dll
+C:\Users\mohib\source\repos\LixTalsBeregner\bin\Debug\netcoreapp3.1\LixTalsBeregner.pdb
+C:\Users\mohib\source\repos\LixTalsBeregner\obj\Debug\netcoreapp3.1\LixTalsBeregner.csproj.AssemblyReference.cache
+C:\Users\mohib\source\repos\LixTalsBeregner\obj\Debug\netcoreapp3.1\LixTalsBeregner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohib\source\repos\LixTalsBeregner\obj\Debug\netcoreapp3.1\LixTalsBeregner.AssemblyInfoInputs.cache
+C:\Users\mohib\source\repos\LixTalsBeregner\obj\Debug\netcoreapp3.1\LixTalsBeregner.AssemblyInfo.cs
+C:\Users\mohib\source\repos\LixTalsBeregner\obj\Debug\netcoreapp3.1\LixTalsBeregner.csproj.CoreCompileInputs.cache
+C:\Users\mohib\source\repos\LixTalsBeregner\obj\Debug\netcoreapp3.1\LixTalsBeregner.dll
+C:\Users\mohib\source\repos\LixTalsBeregner\obj\Debug\netcoreapp3.1\LixTalsBeregner.pdb
+C:\Users\mohib\source\repos\LixTalsBeregner\obj\Debug\netcoreapp3.1\LixTalsBeregner.genruntimeconfig.cache
+C:\Users\mohib\source\repos\LixTalsBeregner\bin\Debug\netcoreapp3.1\LixCalcLibrary.dll
+C:\Users\mohib\source\repos\LixTalsBeregner\bin\Debug\netcoreapp3.1\LixCalcLibrary.pdb
+C:\Users\mohib\source\repos\LixTalsBeregner\obj\Debug\netcoreapp3.1\LixTalsBeregner.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/6/W69ORkYcSy7572crsUUEsZgA6ih7UD/yJ9hejDCLgwzSNMaESZ9XkvgWxv2kmN70319a+HoSnRuuhx6g2BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mohib\\source\\repos\\LixTalsBeregner\\LixTalsBeregner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
